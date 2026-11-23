@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Transcrições geradas
+transcricoes/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos de áudio de teste
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.opus
